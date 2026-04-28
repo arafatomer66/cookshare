@@ -1,8 +1,10 @@
-# 🍳 CookShare
+# CookShare
 
-> **Instagram for home cooks.** Share what you're cooking with neighbors, see who's cooking what nearby on a live map, and (if they're selling) message them on WhatsApp to grab a portion.
+### *From their kitchen, to yours.*
 
-CookShare is a **social-first** app — we build the network of cooks and eaters first, and only after the social loop is alive do we layer on a marketplace. Phase 1 ships the social MVP plus an early WhatsApp-based portion-selling layer that costs nothing to operate and validates demand for real commerce in Phase 2.
+A social-first app for home cooks to share what they're cooking with the neighbors around them — a live, map-based feed of dishes coming out of real kitchens nearby, with optional cash-on-pickup portions arranged over WhatsApp.
+
+We build the **network** of cooks and eaters first, then layer on the marketplace once the social loop is alive. Phase 1 (shipped) is the full social MVP plus a zero-overhead WhatsApp-based portion-selling layer that validates demand for real in-app commerce in Phase 2.
 
 ---
 
