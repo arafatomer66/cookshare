@@ -1,0 +1,42 @@
+name: cookshare
+description: "CookShare — share what you're cooking with neighbors"
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # State + routing
+  get: ^4.7.2
+  get_storage: ^2.1.1
+
+  # Networking
+  dio: ^5.7.0
+
+  # Maps + location
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  geolocator: ^13.0.2
+
+  # Media
+  image_picker: ^1.1.2
+  cached_network_image: ^3.4.1
+  http: ^1.2.2
+
+  # Utilities
+  permission_handler: ^11.3.1
+  intl: ^0.20.1
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
